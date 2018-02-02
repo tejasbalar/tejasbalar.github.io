@@ -1,2 +1,1 @@
-# tejasbalar.github.io
-Personal Website
+# tejaspatel.github.io
